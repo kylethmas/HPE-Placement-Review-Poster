@@ -1,11 +1,14 @@
 # Microservice Dependency Tracker: Visualizing Inter-Service Communication
 
 **Author:** Kyle Thomas  
-**Matriculation Number:** 2548971t 
+
 **University:** School of Computing Science, University of Glasgow
 
 ## Overview
 The **Microservice Dependency Tracker** is a tool designed to visualize the interactions and dependencies between microservices within HPE’s GreenLake platform. As microservice architectures scale, they become increasingly complex, making it challenging for developers to identify issues, track API errors, and understand service dependencies. This tool offers a real-time, visual map of these dependencies, empowering developers to maintain clarity and optimize inter-service communication.
+
+<img src="https://github.com/user-attachments/assets/26899b39-1544-49e6-93a0-74af95b131b2" width="30%" />
+
 
 ## Company Background
 ### Hewlett Packard Enterprise (HPE)
