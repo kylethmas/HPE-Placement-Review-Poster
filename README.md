@@ -9,7 +9,7 @@ The **Microservice Dependency Tracker** is a tool designed to visualize the inte
 
 ## Company Background
 ### Hewlett Packard Enterprise (HPE)
-HPE, a global enterprise IT solutions company, split from HP Inc. in 2015. They specialize in cloud services, artificial intelligence, and high-performance computing (HPC). HPE serves large enterprises, governments, and other organizations worldwide, offering scalable and secure solutions. One of HPE’s flagship products, **GreenLake**, provides cloud-like services with the security and control of on-premises infrastructure, built using a microservices architecture.
+[HPE](https://www.hpe.com/us/en/home.html), a global enterprise IT solutions company, split from HP Inc. in 2015. They specialize in cloud services, artificial intelligence, and high-performance computing (HPC). HPE serves large enterprises, governments, and other organizations worldwide, offering scalable and secure solutions. One of HPE’s flagship products, **[GreenLake](https://www.hpe.com/us/en/greenlake.html)**, provides cloud-like services with the security and control of on-premises infrastructure, built using a microservices architecture.
 
 ## Problem Description
 As HPE’s GreenLake platform grows, managing the increasing number of microservices becomes a challenge. Developers struggle to track dependencies, pinpoint performance issues, and trace errors due to the lack of real-time visibility. This can lead to extended troubleshooting times, costly downtime, and architectural complexity that’s difficult to manage.
@@ -57,7 +57,6 @@ The project utilizes the following technologies:
 The Microservice Dependency Tracker could be expanded to include:
 - **AI-Based Analysis**: Using machine learning to predict potential service failures based on historical data.
 - **Alerting System**: Integrating alert mechanisms to notify developers of critical issues in real-time.
-- **Integration with Additional Cloud Providers**: Extending support beyond HPE’s GreenLake to include other cloud platforms like AWS, Azure, and GCP.
 
 ## Contact Information
 For more information or collaboration opportunities, please reach out via email: 2548971t@student.gla.ac.uk
