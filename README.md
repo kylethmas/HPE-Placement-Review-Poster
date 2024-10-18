@@ -7,12 +7,9 @@
 ## Overview
 This page goes into more depth about HPE, including my reflections on HPE, my plans for the future and advice for applying for a job with HPE. I also discuss the project more in depth the analyis and expectations for this project and potential future enhancements.
 
-The **Microservice Dependency Tracker** is a tool designed to visualize the interactions and dependencies between microservices within HPE’s GreenLake platform. As microservice architectures scale, they become increasingly complex, making it challenging for developers to identify issues, track API errors, and understand service dependencies. This tool offers a real-time, visual map of these dependencies, empowering developers to maintain clarity and optimize inter-service communication.
-
-<img src="https://github.com/user-attachments/assets/26899b39-1544-49e6-93a0-74af95b131b2" width="30%" />
-
-
 ## Company Background
+<img src="https://github.com/user-attachments/assets/75e01799-302a-469b-bd38-963f8481e7d3" width="40%" />
+
 ### [Hewlett Packard Enterprise](https://www.hpe.com/us/en/home.html) (HPE)
 HPE, a global enterprise IT solutions company, split from HP Inc. in 2015. They specialize in cloud services, artificial intelligence, and high-performance computing (HPC). HPE serves large enterprises, governments, and other organizations worldwide, offering scalable and secure solutions. One of HPE’s flagship products, **[GreenLake](https://www.hpe.com/us/en/greenlake.html)**, provides cloud-like services with the security and control of on-premises infrastructure, built using a microservices architecture.
 
@@ -76,7 +73,7 @@ HPE, a global enterprise IT solutions company, split from HP Inc. in 2015. They 
 ## Project Overview
 The **Microservice Dependency Tracker** is a tool designed to visualize the interactions and dependencies between microservices within HPE’s GreenLake platform. As microservice architectures scale, they become increasingly complex, making it challenging for developers to identify issues, track API errors, and understand service dependencies. This tool offers a real-time, visual map of these dependencies, empowering developers to maintain clarity and optimize inter-service communication.
 
-<img src="https://github.com/user-attachments/assets/26899b39-1544-49e6-93a0-74af95b131b2" width="30%" />
+<img src="https://github.com/user-attachments/assets/26899b39-1544-49e6-93a0-74af95b131b2" width="40%" />
 
 ### Problem Description
 As HPE’s GreenLake platform grows, managing the increasing number of microservices becomes a challenge. Developers struggle to track dependencies, pinpoint performance issues, and trace errors due to the lack of real-time visibility. This can lead to extended troubleshooting times, costly downtime, and architectural complexity that’s difficult to manage.
