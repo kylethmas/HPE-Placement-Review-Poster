@@ -5,7 +5,7 @@
 **University:** School of Computing Science, University of Glasgow
 
 ## Overview
-This page goes into more depth about HPE, including my reflections on HPE, my plans for the future and advice for applying for a job with HPE. I also discuss the project more in depth the analyis and expectations for this project and potential future enhancements.
+This page goes into more depth about HPE, including my [reflections](https://kylethmas.github.io/HPE-Placement-Review-Poster/#reflections-on-the-placement) on my internship as a Cloud Software Engineer HPE, my [plans for the future](https://kylethmas.github.io/HPE-Placement-Review-Poster/#continued-collaboration-and-graduate-offer) and [advice for applying](https://kylethmas.github.io/HPE-Placement-Review-Poster/#advice-for-applying-to-hpe) for a job with HPE. I also discuss the [project](https://kylethmas.github.io/HPE-Placement-Review-Poster/#project-overview) more in depth the [analyis and expectations](https://kylethmas.github.io/HPE-Placement-Review-Poster/#personal-development) for this project and potential [future enhancements](https://kylethmas.github.io/HPE-Placement-Review-Poster/#future-enhancements).
 
 ## Company Background
 <img src="https://github.com/user-attachments/assets/75e01799-302a-469b-bd38-963f8481e7d3" width="40%" />
